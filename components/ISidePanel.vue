@@ -3,7 +3,7 @@
     <c-flex mt="6" align="center">
       <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="lg" src="https://bit.ly/chakra-jonathan-bakebwa" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
+        <c-link href="https://twitter.com/codebender828" is-external font-weight="bold" font-size="sm">
           codebender828
         </c-link>
         <c-text font-size="sm" color="gray.500">
@@ -11,9 +11,9 @@
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
+        href="https://twitter.com/codebender828"
+        is-external
         ml="3"
-        to="#"
         font-weight="bold"
         font-size="sm"
         color="blue.400"
@@ -35,19 +35,19 @@
       </c-link>
     </c-flex>
     <c-flex align="center">
-      <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
+      <c-avatar flex-shrink="0" mr="3" name="Sage" size="sm" src="https://pbs.twimg.com/profile_images/1169353373012897802/skPUWd6e_400x400.jpg" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
-          codebender828
+        <c-link href="https://twitter.com/thesegunadebayo" is-external font-weight="bold" font-size="sm">
+          thesegunadebayo
         </c-link>
         <c-text font-size="xs" color="gray.500">
-          Jonathan Bakebwa
+          Segun Adebayo
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
+        is-external
         ml="3"
-        to="#"
+        href="https://twitter.com/thesegunadebayo"
         font-weight="bold"
         font-size="xs"
         color="blue.400"
@@ -56,19 +56,24 @@
       </c-link>
     </c-flex>
     <c-flex align="center">
-      <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
+      <c-avatar flex-shrink="0" mr="3" name="SybrenW" size="sm" src="https://pbs.twimg.com/profile_images/1306495804903915520/9FAg0JSJ_400x400.jpg" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
-          codebender828
+        <c-link
+          href="https://twitter.com/Carwack"
+          is-external
+          font-weight="bold"
+          font-size="sm"
+        >
+          Carwack
         </c-link>
         <c-text font-size="xs" color="gray.500">
-          Jonathan Bakebwa
+          SybrenW
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
         ml="3"
-        to="#"
+        href="https://twitter.com/Carwack"
+        is-external
         font-weight="bold"
         font-size="xs"
         color="blue.400"
@@ -77,19 +82,19 @@
       </c-link>
     </c-flex>
     <c-flex align="center">
-      <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
+      <c-avatar flex-shrink="0" mr="3" name="Gift Egwuenu" size="sm" src="https://pbs.twimg.com/profile_images/1358198245978222593/x9OvMVMC_400x400.jpg" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
-          codebender828
+        <c-link href="https://twitter.com/lauragift_" is-external font-weight="bold" font-size="sm">
+          lauragift_
         </c-link>
         <c-text font-size="xs" color="gray.500">
-          Jonathan Bakebwa
+          Gift Egwuenu
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
+        href="https://twitter.com/lauragift_"
+        is-external
         ml="3"
-        to="#"
         font-weight="bold"
         font-size="xs"
         color="blue.400"
@@ -98,19 +103,19 @@
       </c-link>
     </c-flex>
     <c-flex align="center">
-      <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
+      <c-avatar flex-shrink="0" mr="3" name="Michael Seibel" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
-          codebender828
+        <c-link is-external href="https://twitter.com/mwseibel" font-weight="bold" font-size="sm">
+          mwseibel
         </c-link>
         <c-text font-size="xs" color="gray.500">
-          Jonathan Bakebwa
+          Michael Seibel
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
+        is-external
+        href="https://twitter.com/mwseibel"
         ml="3"
-        to="#"
         font-weight="bold"
         font-size="xs"
         color="blue.400"
@@ -119,19 +124,19 @@
       </c-link>
     </c-flex>
     <c-flex align="center">
-      <c-avatar flex-shrink="0" mr="3" name="Jonathan Bakebwa" size="sm" src="https://bit.ly/chakra-jonathan-bakebwa" />
+      <c-avatar flex-shrink="0" mr="3" name="Mark Chandler" size="sm" src="https://pbs.twimg.com/profile_images/1182143272594132992/jGnAUoF6_400x400.jpg" />
       <c-box mr="auto">
-        <c-link as="nuxt-link" to="#" font-weight="bold" font-size="sm">
-          codebender828
+        <c-link href="https://twitter.com/grow_love" is-external font-weight="bold" font-size="sm">
+          grow_love
         </c-link>
         <c-text font-size="xs" color="gray.500">
-          Jonathan Bakebwa
+          Mark Chandler
         </c-text>
       </c-box>
       <c-link
-        as="nuxt-link"
+        href="https://twitter.com/grow_love"
+        is-external
         ml="3"
-        to="#"
         font-weight="bold"
         font-size="xs"
         color="blue.400"
@@ -157,6 +162,14 @@
     <c-box mt="6">
       <c-text font-size="xs" color="gray.400">
         © 2021 INSTAGRAM ON CHAKRA UI VUE
+      </c-text>
+      <c-text mt="2" font-size="xs" color="gray.500">
+        Made with <c-link href="https://vue.chakra-ui.com" is-external font-weight="bold" text-decoration="underline">
+          @chakra-ui/vue
+        </c-link>.
+        View source on <c-link font-weight="bold" href="https://github.com/codebender828/instagram-chakra" is-external text-decoration="underline">
+          Github
+        </c-link>.
       </c-text>
     </c-box>
   </c-stack>

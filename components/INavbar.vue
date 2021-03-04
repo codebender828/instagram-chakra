@@ -72,6 +72,23 @@
         >
           <c-icon size="6" name="heart" />
         </c-link>
+        <c-link
+          w="8"
+          h="8"
+          d="flex"
+          justify-content="center"
+          align-items="center"
+          rounded="full"
+          as="nuxt-link"
+          to="#"
+        >
+          <c-avatar
+            name="Jonathan Bakebwa"
+            w="8"
+            h="8"
+            src="https://bit.ly/chakra-jonathan-bakebwa"
+          />
+        </c-link>
       </c-stack>
     </c-flex>
   </c-flex>
